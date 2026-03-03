@@ -1,0 +1,2 @@
+# Techcrush-Group7-RealEstate
+Property search platforms in Nigeria provide basic filtering options but lack intelligent recommendation systems that personalize results based on user preferences. Users are often overwhelmed with numerous listings and must manually compare properties to find suitable options.
